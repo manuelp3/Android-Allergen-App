@@ -28,7 +28,9 @@ The detect screen allows the user to take a picture of their food, and upload it
 
 <span>
   <p>
-    <img width="270"src="https://github.com/user-attachments/assets/048f0c7e-1295-4d4a-9149-e64a84b535a2" />
+    <!-- <img width="270"src="https://github.com/user-attachments/assets/048f0c7e-1295-4d4a-9149-e64a84b535a2" /> -->
+    <img width="270" src="https://github.com/user-attachments/assets/07e5c562-3d4c-4905-bcc5-160ab16d7759" />
+
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img width="270" src="https://github.com/user-attachments/assets/4754caa4-c292-4ea7-8c97-c49216f50ef0" />
 
