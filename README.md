@@ -43,7 +43,8 @@ If the product is detected, the app shows the image that the user took with its 
 <span>
   <p>
     <img src="https://github.com/user-attachments/assets/e7da6697-68fc-4e4c-b84f-206b3e539175" width="270">
-    <img width="270"src="https://github.com/user-attachments/assets/810fbd5e-2e33-429f-b0de-880e482ad3ff" />
+    <!-- <img width="270"src="https://github.com/user-attachments/assets/810fbd5e-2e33-429f-b0de-880e482ad3ff" /> -->
+    <img width="270" height="1420" alt="image" src="https://github.com/user-attachments/assets/c4706611-1430-463f-ae8d-71e50f18cb52" />
     <img src="https://github.com/user-attachments/assets/a44e04d5-a47f-4442-9fae-851b8385862a" width="270">
   </p>
 </span>
